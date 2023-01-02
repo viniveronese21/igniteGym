@@ -39,7 +39,7 @@ export function Exercise() {
           alignItems="center"
         >
           <Heading color="gray.100" fontSize="lg" flexShrink={1}>
-            Puxada frontal
+            Remada unilateral
           </Heading>
 
           <HStack alignItems="center">
